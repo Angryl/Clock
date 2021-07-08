@@ -3,3 +3,9 @@ Clock developed under the javascript, HTMl,Css and The World Famous Bootsstarp w
 
 ''' this is a simple clock 
 the clock logic is developed under the *Javascript*'''
+
+## Prequisites
+- Text edittor
+- Web Browser
+
+
