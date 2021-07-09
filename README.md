@@ -7,5 +7,6 @@ the clock logic is developed under the *Javascript*'''
 ## Prequisites
 - Text edittor
 - Web Browser
+- kenowledge of the Java script
 
 
