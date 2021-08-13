@@ -9,4 +9,8 @@ the Clock logic is developed under the **Javascript** '''
 - Web Browser
 - kenowledge of the Java script
 
+#  usage
+- watching time
+- getting the difference of different time zone
+
 
